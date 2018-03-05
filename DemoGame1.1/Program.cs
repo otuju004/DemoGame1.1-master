@@ -278,7 +278,6 @@ namespace DemoGamev1._1
                 Console.WriteLine("For this treason, the king has you executed publicly.");
             }
             End:;
-
             //https://github.com/otuju004/
             //https://github.com/JustusJuutilainen/FS_Justuus
         }
